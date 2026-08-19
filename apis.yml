@@ -32,7 +32,7 @@ x-acquired-by: cornerstone-ondemand
 x-acquired-date: '2020-01-16'
 x-enrichment-checked: '2026-07-18'
 x-enrichment-result: no-live-api-surface
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
